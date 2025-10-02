@@ -33,6 +33,7 @@ You can try the bot live on Telegram: **[@GetReminder_bot](https://t.me/GetRemin
 This bot operates on a fully serverless architecture, ensuring it's both efficient and cost-effective.
 
 
+<img width="3000" height="2500" alt="image" src="https://github.com/user-attachments/assets/6566b35a-63f3-457d-83f8-1ad3983b472c" />
 
 [Image of a serverless architecture diagram]
 
